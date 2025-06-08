@@ -18,6 +18,9 @@ Scalability and Performance Analysis of Platforms Specially Made for eKYC, SSI, 
 
    *  Contents:  Applied Technologies, Tools and Approaches in Various Studies, Smart Contract Support for Identity Verification, Existing Research Focus for Identity Verification, 
 
+   
+   ```markdown
+[`Important Supplementary Tables.pdf`](./Important%20Supplementary%20Tables.pdf)
    ```
     File: Important Supplementary Tables.pdf
     
