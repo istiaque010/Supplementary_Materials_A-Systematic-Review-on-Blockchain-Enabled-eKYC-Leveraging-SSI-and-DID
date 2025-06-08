@@ -1,7 +1,7 @@
 # Systematic Review article supplementry materials
 
 Following files contains corresponding information about the systematic review article:
-- 1. 
+* 1. 
 Contents: 
 Blockchain Platforms Commonly Used for eKYC, SSI, DID
 Blockchain Platforms for eKYC, SSI, DID with Scalability with TPS and Latency (ms)
