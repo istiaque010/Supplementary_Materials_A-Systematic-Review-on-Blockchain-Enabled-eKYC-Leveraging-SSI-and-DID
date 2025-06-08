@@ -12,7 +12,7 @@ Scalability and Performance Analysis of Platforms Specially Made for eKYC, SSI, 
   File: Blockchain Platforms Commonly used for eKYC, SSI and DID.pdf  
 
 
- *  Contents:  Platforms Specially Made for eKYC, SSI, DID
+ *  Contents:  Platforms Specially Made for eKYC, SSI, DID,
    
    File: Platforms Specially Made for eKYC, SSI, DID.pdf 
 
