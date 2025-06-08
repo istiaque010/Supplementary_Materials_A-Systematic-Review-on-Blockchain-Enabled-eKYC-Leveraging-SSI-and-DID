@@ -20,8 +20,6 @@ Scalability and Performance Analysis of Platforms Specially Made for eKYC, SSI, 
 
    
    ```markdown
-[`Important Supplementary Tables.pdf`](./Important%20Supplementary%20Tables.pdf)
-   ```
     File: Important Supplementary Tables.pdf
     
 
