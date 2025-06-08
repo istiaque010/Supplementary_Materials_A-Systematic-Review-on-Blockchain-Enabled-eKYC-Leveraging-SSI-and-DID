@@ -20,7 +20,7 @@ Scalability and Performance Analysis of Platforms Specially Made for eKYC, SSI, 
 
    ---
     File: Important Supplementary Tables.pdf
-    ```markdown
+    
 
 # Benchmark: Deplpyment and Evalueation
 
